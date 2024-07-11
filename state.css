@@ -1,0 +1,79 @@
+.state-section1{
+    
+    
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 20px;
+    margin-top: 0px;
+    
+}
+body{
+    line-height: 1px;
+}
+
+
+#carouselExampleAutoplaying{
+    position: relative;
+    bottom: 6px;
+}
+marquee{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:white;
+}
+.state-section{
+    position: relative;
+    bottom: 800px;
+    height: 0px;
+    width: 100%;
+    background-color: antiquewhite;
+    background: url("C:\Users\prasa\OneDrive\Desktop\webprojects\project3\4k background footage (ideal for Blockchain Website).mp4");
+}
+
+
+.state-section1 img{
+    height: 300px;
+    width: 300px;
+}
+.state-section1 img:hover{
+    height: 330px;
+    width: 330px;
+    transition: all 0.5s ease-in;
+    
+}
+.state-section1 h3{
+    text-align: center;
+    color: cadetblue;
+    
+}
+.state-section1 a{
+    text-decoration: none;
+}
+.state-section2{
+    
+    position: relative;
+    top: 30px;
+    display: flex;
+    justify-content: space-around;
+    margin-top:
+}
+.state-section2 img{
+    height: 300px;
+    width: 300px;
+}
+.state-section2 img:hover{
+    height: 330px;
+    width: 330px;
+    transition: all 0.5s ease-in;
+    
+}
+.state-section2 h3{
+    text-align: center;
+    color: cadetblue;
+    
+}
+.state-section2 a{
+    text-decoration: none;
+}
